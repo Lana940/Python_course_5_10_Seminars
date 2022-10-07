@@ -1,0 +1,2 @@
+# Python_course_5_10_Seminars
+Python_course_5.10
