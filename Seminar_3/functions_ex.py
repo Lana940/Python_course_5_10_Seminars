@@ -1,22 +1,11 @@
-От Alexander Bashlaev всем 10:06 AM
-А что за глюк?
-От Bokovnev Evgeniy всем 10:06 AM
-по предикатам?
-От Olga всем 10:09 AM
-А можно на семинаре разобрать конкретную задачу по предикатам, чтобы сложилось более четкое представление, как их решать?
-От Timur Islamgulov всем 10:13 AM
+
 b= True
 a = True
 not ( a and  b) = False
 not(a) and not(b)
 not(a) OR not(b)
 for x in [True, False]:
-От Militsa Voronina всем 10:16 AM
-если в словаре в ключе элементы типа tuple , к этому ключу можно добавить новый элемент?
-а поменять тип tuple на список в ключе можно?
-От Alexander Bashlaev всем 10:16 AM
-По-моему, нет
-От Timur Islamgulov всем 10:23 AM
+
 def summa_numbers(): #эта функця ничего не возвращает, только печатает на экран
     a=3
     b=6
